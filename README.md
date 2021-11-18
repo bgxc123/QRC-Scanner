@@ -8,10 +8,11 @@ Can scan any QR code by utilizing your webcam
 Can also upload a saved QR image
 
 ## Running the Webpage
-1. Start by installing http-server:
+1. Start by installing http-server:  
 `npm install http-server -g`
 
-2. Run the http-server command:
-`npm install http-server -g`
+2. Run the http-server command:  
+`http-server`
 
-3. Go to your browser and type localhost:8080
+3. Go to your browser and type:  
+localhost:8080
